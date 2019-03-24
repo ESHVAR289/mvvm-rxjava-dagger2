@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="txt_test_resource">Fox News</string>
+    <string name="txt_test_author_name">Samuel Chamberlain</string>
+    <string name="txt_label_author">Author</string>
+    <string name="txt_label_source">Source</string>
+    <string name="txt_test_title">Nicaragua government says it will free all jailed protesters in bid for lifted sanctions - Fox News</string>
+    <string name="txt_test_description">The Nicaraguan government has said that it will release all political protesters arrested over the past year within the next 90 days, according to two independent officials who are monitoring talks aimed at resolving the country\'s political standoff.</string>
+    <string name="label_articles">Articles</string>
+</resources>
